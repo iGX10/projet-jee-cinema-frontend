@@ -1,0 +1,12 @@
+.clickable {
+  cursor: pointer;
+}
+
+.cinema:hover {
+  color: blue;
+}
+
+.ticket {
+  margin: 5px;
+  width: 50px;
+}
